@@ -1,7 +1,5 @@
-![Mastertag](https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966)
-
 <h1 align="center">Hi 👋, I'm Anmol Gupta</h1>
-<h3 align="center">A proficient and motivated developer with a passion for both frontend and backend development, and more importantly, a passion for learning.</h3>
+<h3 align="center">A FullStack-Developer eager to learn and grow!</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolgupta313&label=Profile%20views&color=0e75b6&style=flat" alt="anmolgupta313" /> </p>
 
@@ -9,7 +7,7 @@
 
 - 🌱 I’m currently learning **Modern JavaScript, React.js, React Native, AWS**
 
-- 👨‍💻 All of my projects are available at (anmolgupta)[https://anmolgupta313.github.io/Challenge-20-Portfolio-React/](https://anmolgupta313.github.io/Challenge-20-Portfolio-React/)
+- 👨‍💻 All of my projects are available at <a href="https://anmolgupta313.github.io/Challenge-20-Portfolio-React/](https://anmolgupta313.github.io/Challenge-20-Portfolio-React/">Anmolgupta.com</a>
 
 - 📫 How to reach me **anmol.gupta2180@gmail.com**
 
